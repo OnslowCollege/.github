@@ -1,4 +1,4 @@
-![Onslow College logo](https://user-images.githubusercontent.com/88599935/186767501-67991dd0-5f38-489f-baca-f733115d1a66.svg)
+<img src="https://user-images.githubusercontent.com/88599935/186767501-67991dd0-5f38-489f-baca-f733115d1a66.svg" width="100">
 
 # Onslow College
 
